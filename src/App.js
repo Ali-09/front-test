@@ -6,7 +6,7 @@ const App = () => {
     <div className="app">
 
       <header className="app-header">
-        <h1 className="text-2xl text-white">Prueba Front End</h1>
+        <h1 className="text-2xl text-white">Test Front End</h1>
       </header>
 
       <main className="app-main">
